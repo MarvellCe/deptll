@@ -28,7 +28,7 @@ function App() {
       <div className="flex flex-col min-h-screen bg-costumWhite">
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/deptll//" element={<Home />} />
           <Route path="/papuaPegunungan" element={<PapuaPegunungan />} />
           <Route path="/papuaSelatan" element={<PapuaSelatan />} />
           <Route path="/papuaTengah" element={<PapuaTengah />} />
